@@ -10,7 +10,7 @@
 
 ## What is it
 
-I wanted to practice writing Go, and used to use mnamer
+I wanted to practice writing Go, and used to use <a href="https://github.com/jkwill87/mnamer">Mnamer</a>
 for renaming all of my media. 
 
 This project is based on that. There are still some things
