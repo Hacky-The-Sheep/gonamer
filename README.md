@@ -19,5 +19,8 @@ that need to be done such as:
 - [ ] Integrating with theTVDB for episodes
 - [ ] Adding Charm options for selection
 - [x] Reduce boilerplate by having it rename once even if more than one file
+- [ ] Throw an exception if the regex for movies is not found (no year)
+- [ ] Parse TV shows based on season and episode
+- [ ] Pull TV episode names
 
 So far it works well on movies
