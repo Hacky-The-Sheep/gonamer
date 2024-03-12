@@ -16,8 +16,8 @@ for renaming all of my media.
 This project is based on that. There are still some things
 that need to be done such as:
 
-* Integrating with theTVDB for episodes
-* Adding Charm options for selection
-* Reduce boilerplate by having it rename once even if more than one file
+- [ ] Integrating with theTVDB for episodes
+- [ ] Adding Charm options for selection
+- [x] Reduce boilerplate by having it rename once even if more than one file
 
 So far it works well on movies
