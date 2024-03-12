@@ -1,6 +1,8 @@
-# GoNamer 
-
-*A Media Renaming Tool*
+<h1 align="center">
+  GoNamer
+  <br>
+  <i>A Media Renaming Tool</i>
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
