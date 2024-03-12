@@ -2,6 +2,10 @@
 
 *A Media Renaming Tool*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
 ## What is it
 
 I wanted to practice writing Go, and used to use mnamer
