@@ -11,10 +11,14 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
 
-## What is it
-
-I wanted to practice writing Go, and used to use <a href="https://github.com/jkwill87/mnamer">Mnamer</a>
-for renaming all of my media. 
+<h2 align="center">
+  What is it?
+  <p align="center">
+  <i>I wanted to practice writing Go, and used to use 
+  <a href="https://github.com/jkwill87/mnamer">Mnamer</a>
+  for renaming all of my media.</i> 
+  </p>
+</h2>
 
 This project is based on that. There are still some things
 that need to be done such as:
