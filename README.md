@@ -2,6 +2,9 @@
   GoNamer
   <br>
   <i>A Media Renaming Tool</i>
+  <p>
+    <img src="https://imgs.search.brave.com/811XP1RwmaV1BGXmXM8o3m8PYtEKXs9EzvN3qxl8YHE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nb3Bo/ZXJzb3VyY2UuY29t/L2ltZy9taWMtZHJv/cC5wbmc" width="200" height="200" />
+  </p>
 </h1>
 
 <p align="center">
