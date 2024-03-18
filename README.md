@@ -31,3 +31,19 @@ that need to be done such as:
 - [ ] Pull TV episode names
 
 So far it works well on movies
+
+<h3 align="center">
+  How to use it
+</h3>
+
+So far, it only pulls accurately for movie files. To run, simply use the *mv* flag as such:
+
+*For a single movie*
+```
+gonamer mv title.of.movie.2024.mkv
+```
+
+*For multiple*
+```go
+gonamer mv *.ext // Put the extension type here
+```
