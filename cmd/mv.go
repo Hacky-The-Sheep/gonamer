@@ -23,11 +23,11 @@ Cobra is a CLI library for Go that empowers applications.
 This application is a tool to generate the needed files
 to quickly create a Cobra application.`,
 	Run: func(cmd *cobra.Command, args []string) {
-		// fmt.Println("mv called")
 		r, _ := regexp.Compile(`^.*\d\d\d\d\.`)
 
-		for i := 1; i < len(os.Args); i++ {
-			mName := args[0]
+		for i := 0; i < len(args); i++ {
+			mName := args[i]
+			fmt.Println("I made it here and the movie is:", mName)
 
 			fmt.Println("")
 			fmt.Println("Movie Name:", mName)
@@ -37,6 +37,7 @@ to quickly create a Cobra application.`,
 
 			newTitle := fmt.Sprintf("%s(%s).%s", match[0:len(match)-4], match[len(match)-4:], mName[len(mName)-3:])
 			var answer string
+			fmt.Println("I made it here 2")
 
 			fmt.Println("The movie will be renamed to:", newTitle)
 			fmt.Print("y to accept, n to skip: ")
@@ -46,12 +47,6 @@ to quickly create a Cobra application.`,
 				fmt.Println("The file has been renamed!")
 			} else {
 				continue
-			}
-
-			if len(args) > 2 {
-				continue
-			} else {
-				break
 			}
 		}
 	},
